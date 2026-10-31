@@ -1,0 +1,2 @@
+[console_scripts]
+tftreview = tftreview.cli:main

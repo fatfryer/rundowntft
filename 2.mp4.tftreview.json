@@ -1,0 +1,1539 @@
+{
+  "format": "tftreview-sidecar",
+  "version": 1,
+  "title": "test_2",
+  "video_name": "2.mp4",
+  "meta": {},
+  "events": [
+    {
+      "kind": "round",
+      "label": "1-1",
+      "time_ms": 0,
+      "source": "auto",
+      "meta": {
+        "frame": 0,
+        "confidence": 0.451,
+        "method": "hud-icons",
+        "icons": 4
+      }
+    },
+    {
+      "kind": "round",
+      "label": "1-2",
+      "time_ms": 10533,
+      "source": "auto",
+      "meta": {
+        "frame": 632,
+        "confidence": 0.314,
+        "method": "hud-icons",
+        "icons": 4
+      }
+    },
+    {
+      "kind": "round",
+      "label": "1-3",
+      "time_ms": 45650,
+      "source": "auto",
+      "meta": {
+        "frame": 2739,
+        "confidence": 0.327,
+        "method": "hud-icons",
+        "icons": 4
+      }
+    },
+    {
+      "kind": "round",
+      "label": "1-4",
+      "time_ms": 82800,
+      "source": "auto",
+      "meta": {
+        "frame": 4968,
+        "confidence": 0.328,
+        "method": "hud-icons",
+        "icons": 4
+      }
+    },
+    {
+      "kind": "round",
+      "label": "2-1",
+      "time_ms": 122567,
+      "source": "auto",
+      "meta": {
+        "frame": 7354,
+        "confidence": 0.178,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "2-2",
+      "time_ms": 212417,
+      "source": "auto",
+      "meta": {
+        "frame": 12745,
+        "confidence": 0.353,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "2-3",
+      "time_ms": 282583,
+      "source": "auto",
+      "meta": {
+        "frame": 16955,
+        "confidence": 0.352,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "2-4",
+      "time_ms": 346383,
+      "source": "auto",
+      "meta": {
+        "frame": 20783,
+        "confidence": 0.548,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "2-5",
+      "time_ms": 383450,
+      "source": "auto",
+      "meta": {
+        "frame": 23007,
+        "confidence": 0.346,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "2-6",
+      "time_ms": 452950,
+      "source": "auto",
+      "meta": {
+        "frame": 27177,
+        "confidence": 0.338,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "2-7",
+      "time_ms": 515233,
+      "source": "auto",
+      "meta": {
+        "frame": 30914,
+        "confidence": 0.334,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "3-1",
+      "time_ms": 553283,
+      "source": "auto",
+      "meta": {
+        "frame": 33197,
+        "confidence": 0.372,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "3-2",
+      "time_ms": 623533,
+      "source": "auto",
+      "meta": {
+        "frame": 37412,
+        "confidence": 0.495,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "3-3",
+      "time_ms": 711167,
+      "source": "auto",
+      "meta": {
+        "frame": 42670,
+        "confidence": 0.378,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "3-4",
+      "time_ms": 776517,
+      "source": "auto",
+      "meta": {
+        "frame": 46591,
+        "confidence": 0.543,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "3-5",
+      "time_ms": 813517,
+      "source": "auto",
+      "meta": {
+        "frame": 48811,
+        "confidence": 0.345,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "3-6",
+      "time_ms": 890383,
+      "source": "auto",
+      "meta": {
+        "frame": 53423,
+        "confidence": 0.374,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "3-7",
+      "time_ms": 963083,
+      "source": "auto",
+      "meta": {
+        "frame": 57785,
+        "confidence": 0.295,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "4-1",
+      "time_ms": 1003350,
+      "source": "auto",
+      "meta": {
+        "frame": 60201,
+        "confidence": 0.382,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "4-2",
+      "time_ms": 1081900,
+      "source": "auto",
+      "meta": {
+        "frame": 64914,
+        "confidence": 0.49,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "4-3",
+      "time_ms": 1180367,
+      "source": "auto",
+      "meta": {
+        "frame": 70822,
+        "confidence": 0.385,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "4-4",
+      "time_ms": 1251933,
+      "source": "auto",
+      "meta": {
+        "frame": 75116,
+        "confidence": 0.53,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "4-5",
+      "time_ms": 1289017,
+      "source": "auto",
+      "meta": {
+        "frame": 77341,
+        "confidence": 0.344,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "4-6",
+      "time_ms": 1369717,
+      "source": "auto",
+      "meta": {
+        "frame": 82183,
+        "confidence": 0.352,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "4-7",
+      "time_ms": 1444167,
+      "source": "auto",
+      "meta": {
+        "frame": 86650,
+        "confidence": 0.268,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "5-1",
+      "time_ms": 1480433,
+      "source": "auto",
+      "meta": {
+        "frame": 88826,
+        "confidence": 0.376,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "5-2",
+      "time_ms": 1555883,
+      "source": "auto",
+      "meta": {
+        "frame": 93353,
+        "confidence": 0.363,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "5-3",
+      "time_ms": 1743800,
+      "source": "auto",
+      "meta": {
+        "frame": 104628,
+        "confidence": 0.377,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "5-4",
+      "time_ms": 1817833,
+      "source": "auto",
+      "meta": {
+        "frame": 109070,
+        "confidence": 0.553,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "5-5",
+      "time_ms": 1854883,
+      "source": "auto",
+      "meta": {
+        "frame": 111293,
+        "confidence": 0.287,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "5-6",
+      "time_ms": 1934583,
+      "source": "auto",
+      "meta": {
+        "frame": 116075,
+        "confidence": 0.356,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "5-7",
+      "time_ms": 2014200,
+      "source": "auto",
+      "meta": {
+        "frame": 120852,
+        "confidence": 0.306,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "6-1",
+      "time_ms": 2048083,
+      "source": "auto",
+      "meta": {
+        "frame": 122885,
+        "confidence": 0.381,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    },
+    {
+      "kind": "round",
+      "label": "6-2",
+      "time_ms": 2116133,
+      "source": "auto",
+      "meta": {
+        "frame": 126968,
+        "confidence": 0.377,
+        "method": "hud-icons",
+        "icons": 7
+      }
+    }
+  ],
+  "entries": [
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 8.0,
+      "text": null,
+      "time_ms": 45650,
+      "event": 2
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 2.0,
+      "text": null,
+      "time_ms": 45650,
+      "event": 2
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 0.0,
+      "text": null,
+      "time_ms": 45650,
+      "event": 2
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 2.0,
+      "text": null,
+      "time_ms": 45650,
+      "event": 2
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 100.0,
+      "text": null,
+      "time_ms": 45650,
+      "event": 2
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 5.0,
+      "text": null,
+      "time_ms": 82800,
+      "event": 3
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 3.0,
+      "text": null,
+      "time_ms": 82800,
+      "event": 3
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 0.0,
+      "text": null,
+      "time_ms": 82800,
+      "event": 3
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 6.0,
+      "text": null,
+      "time_ms": 82800,
+      "event": 3
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 100.0,
+      "text": null,
+      "time_ms": 82800,
+      "event": 3
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 3.0,
+      "text": null,
+      "time_ms": 123233,
+      "event": 4
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 3.0,
+      "text": null,
+      "time_ms": 123233,
+      "event": 4
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 2.0,
+      "text": null,
+      "time_ms": 123233,
+      "event": 4
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 6.0,
+      "text": null,
+      "time_ms": 123233,
+      "event": 4
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 100.0,
+      "text": null,
+      "time_ms": 123233,
+      "event": 4
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 15.0,
+      "text": null,
+      "time_ms": 212417,
+      "event": 5
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 3.0,
+      "text": null,
+      "time_ms": 212417,
+      "event": 5
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 4.0,
+      "text": null,
+      "time_ms": 212417,
+      "event": 5
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 6.0,
+      "text": null,
+      "time_ms": 212417,
+      "event": 5
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 96.0,
+      "text": null,
+      "time_ms": 212417,
+      "event": 5
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 17.0,
+      "text": null,
+      "time_ms": 282583,
+      "event": 6
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 4.0,
+      "text": null,
+      "time_ms": 282583,
+      "event": 6
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 0.0,
+      "text": null,
+      "time_ms": 282583,
+      "event": 6
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 10.0,
+      "text": null,
+      "time_ms": 282583,
+      "event": 6
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 96.0,
+      "text": null,
+      "time_ms": 282583,
+      "event": 6
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 18.0,
+      "text": null,
+      "time_ms": 383450,
+      "event": 8
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 4.0,
+      "text": null,
+      "time_ms": 383450,
+      "event": 8
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 4.0,
+      "text": null,
+      "time_ms": 383450,
+      "event": 8
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 10.0,
+      "text": null,
+      "time_ms": 383450,
+      "event": 8
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 96.0,
+      "text": null,
+      "time_ms": 383450,
+      "event": 8
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 18.0,
+      "text": null,
+      "time_ms": 453450,
+      "event": 9
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 5.0,
+      "text": null,
+      "time_ms": 453450,
+      "event": 9
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 4.0,
+      "text": null,
+      "time_ms": 453450,
+      "event": 9
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 20.0,
+      "text": null,
+      "time_ms": 453450,
+      "event": 9
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 96.0,
+      "text": null,
+      "time_ms": 453450,
+      "event": 9
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 28.0,
+      "text": null,
+      "time_ms": 515233,
+      "event": 10
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 5.0,
+      "text": null,
+      "time_ms": 515233,
+      "event": 10
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 6.0,
+      "text": null,
+      "time_ms": 515233,
+      "event": 10
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 20.0,
+      "text": null,
+      "time_ms": 515233,
+      "event": 10
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 96.0,
+      "text": null,
+      "time_ms": 515233,
+      "event": 10
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 39.0,
+      "text": null,
+      "time_ms": 553283,
+      "event": 11
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 5.0,
+      "text": null,
+      "time_ms": 553283,
+      "event": 11
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 8.0,
+      "text": null,
+      "time_ms": 553283,
+      "event": 11
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 20.0,
+      "text": null,
+      "time_ms": 553283,
+      "event": 11
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 96.0,
+      "text": null,
+      "time_ms": 553283,
+      "event": 11
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 40.0,
+      "text": null,
+      "time_ms": 625367,
+      "event": 12
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 6.0,
+      "text": null,
+      "time_ms": 625367,
+      "event": 12
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 2.0,
+      "text": null,
+      "time_ms": 625367,
+      "event": 12
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 36.0,
+      "text": null,
+      "time_ms": 625367,
+      "event": 12
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 96.0,
+      "text": null,
+      "time_ms": 625367,
+      "event": 12
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 68.0,
+      "text": null,
+      "time_ms": 711167,
+      "event": 13
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 6.0,
+      "text": null,
+      "time_ms": 711167,
+      "event": 13
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 4.0,
+      "text": null,
+      "time_ms": 711167,
+      "event": 13
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 36.0,
+      "text": null,
+      "time_ms": 711167,
+      "event": 13
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 96.0,
+      "text": null,
+      "time_ms": 711167,
+      "event": 13
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 42.0,
+      "text": null,
+      "time_ms": 813517,
+      "event": 15
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 7.0,
+      "text": null,
+      "time_ms": 813517,
+      "event": 15
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 2.0,
+      "text": null,
+      "time_ms": 813517,
+      "event": 15
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 56.0,
+      "text": null,
+      "time_ms": 813517,
+      "event": 15
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 96.0,
+      "text": null,
+      "time_ms": 813517,
+      "event": 15
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 57.0,
+      "text": null,
+      "time_ms": 890883,
+      "event": 16
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 7.0,
+      "text": null,
+      "time_ms": 890883,
+      "event": 16
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 4.0,
+      "text": null,
+      "time_ms": 890883,
+      "event": 16
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 56.0,
+      "text": null,
+      "time_ms": 890883,
+      "event": 16
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 96.0,
+      "text": null,
+      "time_ms": 890883,
+      "event": 16
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 65.0,
+      "text": null,
+      "time_ms": 963417,
+      "event": 17
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 7.0,
+      "text": null,
+      "time_ms": 963417,
+      "event": 17
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 6.0,
+      "text": null,
+      "time_ms": 963417,
+      "event": 17
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 56.0,
+      "text": null,
+      "time_ms": 963417,
+      "event": 17
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 87.0,
+      "text": null,
+      "time_ms": 963417,
+      "event": 17
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 61.0,
+      "text": null,
+      "time_ms": 1003350,
+      "event": 18
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 7.0,
+      "text": null,
+      "time_ms": 1003350,
+      "event": 18
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 28.0,
+      "text": null,
+      "time_ms": 1003350,
+      "event": 18
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 56.0,
+      "text": null,
+      "time_ms": 1003350,
+      "event": 18
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 87.0,
+      "text": null,
+      "time_ms": 1003350,
+      "event": 18
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 8.0,
+      "text": null,
+      "time_ms": 1098733,
+      "event": 19
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 8.0,
+      "text": null,
+      "time_ms": 1098733,
+      "event": 19
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 2.0,
+      "text": null,
+      "time_ms": 1098733,
+      "event": 19
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 68.0,
+      "text": null,
+      "time_ms": 1098733,
+      "event": 19
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 77.0,
+      "text": null,
+      "time_ms": 1098733,
+      "event": 19
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 6.0,
+      "text": null,
+      "time_ms": 1180367,
+      "event": 20
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 8.0,
+      "text": null,
+      "time_ms": 1180367,
+      "event": 20
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 4.0,
+      "text": null,
+      "time_ms": 1180367,
+      "event": 20
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 68.0,
+      "text": null,
+      "time_ms": 1180367,
+      "event": 20
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 77.0,
+      "text": null,
+      "time_ms": 1180367,
+      "event": 20
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 16.0,
+      "text": null,
+      "time_ms": 1289017,
+      "event": 22
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 8.0,
+      "text": null,
+      "time_ms": 1289017,
+      "event": 22
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 6.0,
+      "text": null,
+      "time_ms": 1289017,
+      "event": 22
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 68.0,
+      "text": null,
+      "time_ms": 1289017,
+      "event": 22
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 66.0,
+      "text": null,
+      "time_ms": 1289017,
+      "event": 22
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 6.0,
+      "text": null,
+      "time_ms": 1369717,
+      "event": 23
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 8.0,
+      "text": null,
+      "time_ms": 1369717,
+      "event": 23
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 8.0,
+      "text": null,
+      "time_ms": 1369717,
+      "event": 23
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 68.0,
+      "text": null,
+      "time_ms": 1369717,
+      "event": 23
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 56.0,
+      "text": null,
+      "time_ms": 1369717,
+      "event": 23
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 11.0,
+      "text": null,
+      "time_ms": 1444167,
+      "event": 24
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 8.0,
+      "text": null,
+      "time_ms": 1444167,
+      "event": 24
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 10.0,
+      "text": null,
+      "time_ms": 1444167,
+      "event": 24
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 68.0,
+      "text": null,
+      "time_ms": 1444167,
+      "event": 24
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 46.0,
+      "text": null,
+      "time_ms": 1444167,
+      "event": 24
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 21.0,
+      "text": null,
+      "time_ms": 1480767,
+      "event": 25
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 8.0,
+      "text": null,
+      "time_ms": 1480767,
+      "event": 25
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 12.0,
+      "text": null,
+      "time_ms": 1480767,
+      "event": 25
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 68.0,
+      "text": null,
+      "time_ms": 1480767,
+      "event": 25
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 46.0,
+      "text": null,
+      "time_ms": 1480767,
+      "event": 25
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 27.0,
+      "text": null,
+      "time_ms": 1555883,
+      "event": 26
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 8.0,
+      "text": null,
+      "time_ms": 1555883,
+      "event": 26
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 14.0,
+      "text": null,
+      "time_ms": 1555883,
+      "event": 26
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 68.0,
+      "text": null,
+      "time_ms": 1555883,
+      "event": 26
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 46.0,
+      "text": null,
+      "time_ms": 1555883,
+      "event": 26
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 29.0,
+      "text": null,
+      "time_ms": 1744467,
+      "event": 27
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 8.0,
+      "text": null,
+      "time_ms": 1744467,
+      "event": 27
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 16.0,
+      "text": null,
+      "time_ms": 1744467,
+      "event": 27
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 68.0,
+      "text": null,
+      "time_ms": 1744467,
+      "event": 27
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 33.0,
+      "text": null,
+      "time_ms": 1744467,
+      "event": 27
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 18.0,
+      "text": null,
+      "time_ms": 1854883,
+      "event": 29
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 8.0,
+      "text": null,
+      "time_ms": 1854883,
+      "event": 29
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 18.0,
+      "text": null,
+      "time_ms": 1854883,
+      "event": 29
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 68.0,
+      "text": null,
+      "time_ms": 1854883,
+      "event": 29
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 20.0,
+      "text": null,
+      "time_ms": 1854883,
+      "event": 29
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 28.0,
+      "text": null,
+      "time_ms": 1934583,
+      "event": 30
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 8.0,
+      "text": null,
+      "time_ms": 1934583,
+      "event": 30
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 20.0,
+      "text": null,
+      "time_ms": 1934583,
+      "event": 30
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 68.0,
+      "text": null,
+      "time_ms": 1934583,
+      "event": 30
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 20.0,
+      "text": null,
+      "time_ms": 1934583,
+      "event": 30
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 31.0,
+      "text": null,
+      "time_ms": 2014867,
+      "event": 31
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 8.0,
+      "text": null,
+      "time_ms": 2014867,
+      "event": 31
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 22.0,
+      "text": null,
+      "time_ms": 2014867,
+      "event": 31
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 68.0,
+      "text": null,
+      "time_ms": 2014867,
+      "event": 31
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 20.0,
+      "text": null,
+      "time_ms": 2014867,
+      "event": 31
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 56.0,
+      "text": null,
+      "time_ms": 2048083,
+      "event": 32
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 8.0,
+      "text": null,
+      "time_ms": 2048083,
+      "event": 32
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 24.0,
+      "text": null,
+      "time_ms": 2048083,
+      "event": 32
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 68.0,
+      "text": null,
+      "time_ms": 2048083,
+      "event": 32
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 20.0,
+      "text": null,
+      "time_ms": 2048083,
+      "event": 32
+    },
+    {
+      "kind": "metric",
+      "key": "gold",
+      "num": 16.0,
+      "text": null,
+      "time_ms": 2116133,
+      "event": 33
+    },
+    {
+      "kind": "metric",
+      "key": "level",
+      "num": 9.0,
+      "text": null,
+      "time_ms": 2116133,
+      "event": 33
+    },
+    {
+      "kind": "metric",
+      "key": "xp",
+      "num": 2.0,
+      "text": null,
+      "time_ms": 2116133,
+      "event": 33
+    },
+    {
+      "kind": "metric",
+      "key": "xp_next",
+      "num": 68.0,
+      "text": null,
+      "time_ms": 2116133,
+      "event": 33
+    },
+    {
+      "kind": "metric",
+      "key": "hp",
+      "num": 7.0,
+      "text": null,
+      "time_ms": 2116133,
+      "event": 33
+    }
+  ]
+}
